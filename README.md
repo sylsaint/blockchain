@@ -5,9 +5,8 @@ blockchain learning
 
 比特币白皮书中文版的翻译，增加了自己对于一些内容的注释
 
-1. [bitcoin_white_paper.pdf](./bitcoin_white_paper.pdf)
+[bitcoin_white_paper.pdf](./bitcoin_white_paper.pdf)
 
-2. [bitcoin_white_paper.ipynb](./bitcoin_white_paper.ipynb)
 
 ## 版权声明
 
